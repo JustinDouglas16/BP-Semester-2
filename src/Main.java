@@ -2,6 +2,8 @@ import com.unasat.beroepsproduct.frame.ApplicationFrame;
 
 // This line imports the ApplicationFrame class from the com.unasat.beroepsproduct.frame package.
 
+//fjisdjfiosdf
+
 public class Main {
     public static void main(String[] args) {
 
